@@ -74,22 +74,22 @@ Every layer of the system, and what I use to own it.
 
 ## `0x02 // CLASSIFIED OPERATIONS`
 
-<!-- Replace codenames, descriptions and stacks with your real projects. Keep the redaction bars. -->
+<!-- EDIT ME: swap each [REDACTED] for a codename, and adjust the one-line description and stack to match your real projects. -->
 
 ```text
-OP-01  ▓▓ CODENAME_ONE ▓▓                                  status: LIVE
-       ████████ platform for ██████████. handles █████ users daily.
+OP-01  ▓▓ [REDACTED] ▓▓                                    status: LIVE
+       web platform for ██████████. in production, used daily.
        stack: laravel · react · redis · docker
 
-OP-02  ▓▓ CODENAME_TWO ▓▓                                  status: LIVE
+OP-02  ▓▓ [REDACTED] ▓▓                                    status: LIVE
        automation that ████████████ so nobody has to.
        stack: python · linux
 
-OP-03  ▓▓ CODENAME_THREE ▓▓                                status: LIVE
+OP-03  ▓▓ [REDACTED] ▓▓                                    status: LIVE
        mobile app for ████████, backed by my own api.
        stack: flutter · laravel
 
-OP-04  ▓▓ CODENAME_FOUR ▓▓                                 status: ACTIVE
+OP-04  ▓▓ [REDACTED] ▓▓                                    status: ACTIVE
        desktop tool that ██████████████.
        stack: c# · c++
 
@@ -104,11 +104,11 @@ Clearance can be arranged. If you have a real reason to see one of these, messag
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KurdishDemon&hide_border=true&background=000000&ring=c8102e&fire=c8102e&currStreakNum=ffffff&currStreakLabel=c8102e&sideNums=ffffff&sideLabels=6e7681&dates=484f58&stroke=21262d" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=kurdishDemon&hide_border=true&background=000000&ring=c8102e&fire=c8102e&currStreakNum=ffffff&currStreakLabel=c8102e&sideNums=ffffff&sideLabels=6e7681&dates=484f58&stroke=21262d" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/KurdishDemon/KurdishDemon/output/github-snake-dark.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/kurdishDemon/kurdishDemon/output/github-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
@@ -118,14 +118,16 @@ Clearance can be arranged. If you have a real reason to see one of these, messag
 
 <div align="center">
 
-<!-- Swap in your real links -->
-<a href="https://your-site.com"><img src="https://img.shields.io/badge/SITE-000000?style=for-the-badge&logo=torbrowser&logoColor=c8102e" alt="site" /></a>
-<a href="https://t.me/your_handle"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=c8102e" alt="telegram" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=protonmail&logoColor=c8102e" alt="mail" /></a>
+<a href="https://github.com/kurdishDemon"><img src="https://img.shields.io/badge/FOLLOW-000000?style=for-the-badge&logo=github&logoColor=c8102e" alt="follow on github" /></a>
+<!-- EDIT ME: put your real links in, then delete this comment line and the closing one below to switch the buttons on.
+<a href="https://YOUR-SITE.com"><img src="https://img.shields.io/badge/SITE-000000?style=for-the-badge&logo=torbrowser&logoColor=c8102e" alt="site" /></a>
+<a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=c8102e" alt="telegram" /></a>
+<a href="mailto:YOU@EXAMPLE.COM"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=protonmail&logoColor=c8102e" alt="mail" /></a>
+-->
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KurdishDemon&style=flat-square&label=eyes+on+this+file&color=c8102e" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=kurdishDemon&style=flat-square&label=eyes+on+this+file&color=c8102e" alt="views" />
 
 </div>
 
