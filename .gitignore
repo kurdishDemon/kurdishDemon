@@ -1,1 +1,7 @@
 files(1).zip
+
+*.zip
+
+test
+
+.DS_Store
