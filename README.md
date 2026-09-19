@@ -1,31 +1,22 @@
 <div align="center">
-<img src="./assets/header.svg" width="100%" alt="KurdishDemon" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero.svg" width="100%" alt="KurdishDemon" />
+</picture>
 </div>
 
 <br/>
 
-```text
-> establishing connection ............ ok
-> bypassing small talk ............... ok
-> loading subject file ............... ok
-```
+<div align="center">
 
-```text
-┌─ SUBJECT FILE ─────────────────────────────────────────────┐
-│                                                            │
-│  handle ........ KurdishDemon                              │
-│  class ......... full-stack developer                      │
-│  reach ......... backend · web · mobile · desktop · infra  │
-│  public repos .. almost none                               │
-│  private repos . ████████████████  [CLASSIFIED]            │
-│  habit ......... builds it, deploys it, guards it          │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+**One developer. Every layer. Nothing public.**
 
-I work alone across every layer. I write the API, build the interface, ship the mobile app, then log into the server and make sure none of it dies. No handoffs. No "that's not my department."
+</div>
 
-You won't find my best work here. It runs in production for clients, behind logins, under NDA. This page is the only part of it you're allowed to see.
+I write the API, build the interface, ship the mobile app, then log into the server and keep it alive. No handoffs, no "that's not my department."
+
+My best work isn't on this page. It runs in production for clients, behind logins, under NDA. What you're reading is the only part you're cleared to see.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -135,6 +126,14 @@ Clearance can be arranged. If you have a real reason to see one of these, messag
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=KurdishDemon&style=flat-square&label=eyes+on+this+file&color=c8102e" alt="views" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>You just read a stranger's profile all the way to the bottom.<br/>Now imagine what I build when it's an actual product.</sub>
 
 </div>
 

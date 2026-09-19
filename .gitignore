@@ -3,5 +3,8 @@ files(1).zip
 *.zip
 
 test
+test2
 
 .DS_Store
+
+assets2
